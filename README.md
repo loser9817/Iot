@@ -3,6 +3,7 @@
 # Spring-Boot + C#实现物联网传感器数据上云、远程控制
 
 1、sensor文件夹中为传感器端运行的上位机程序，以C#实现可调用http接口桌面程序，该桌面程序使用USB2TTl连接传感器将传感器的数值全部读取并做字符串处理，然后调用服务器的接口上传；
+
 2、springboot-iot中是一个springboot项目，提供http接口供sensor和actuator调用，有以下几个API
 
   - 新增记录：GET : host:8080/upload/{value}
