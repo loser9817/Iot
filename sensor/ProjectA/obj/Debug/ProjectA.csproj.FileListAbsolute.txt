@@ -1,0 +1,27 @@
+F:\zhaojing\c\VS2013\chapter01\ProjectA\ProjectA\bin\Debug\ProjectA.exe.config
+F:\zhaojing\c\VS2013\chapter01\ProjectA\ProjectA\bin\Debug\ProjectA.exe
+F:\zhaojing\c\VS2013\chapter01\ProjectA\ProjectA\bin\Debug\ProjectA.pdb
+F:\zhaojing\c\VS2013\chapter01\ProjectA\ProjectA\obj\Debug\ProjectA.csprojResolveAssemblyReference.cache
+F:\zhaojing\c\VS2013\chapter01\ProjectA\ProjectA\obj\Debug\ProjectA.Form1.resources
+F:\zhaojing\c\VS2013\chapter01\ProjectA\ProjectA\obj\Debug\ProjectA.Properties.Resources.resources
+F:\zhaojing\c\VS2013\chapter01\ProjectA\ProjectA\obj\Debug\ProjectA.csproj.GenerateResource.Cache
+F:\zhaojing\c\VS2013\chapter01\ProjectA\ProjectA\obj\Debug\ProjectA.exe
+F:\zhaojing\c\VS2013\chapter01\ProjectA\ProjectA\obj\Debug\ProjectA.pdb
+D:\loser\WeChat Files\wxid_63lcda019gmi12\Files\超哥代码\期末作品参考答案\ProjectA\ProjectA\bin\Debug\ProjectA.exe.config
+D:\loser\WeChat Files\wxid_63lcda019gmi12\Files\超哥代码\期末作品参考答案\ProjectA\ProjectA\obj\Debug\ProjectA.exe
+D:\loser\WeChat Files\wxid_63lcda019gmi12\Files\超哥代码\期末作品参考答案\ProjectA\ProjectA\obj\Debug\ProjectA.pdb
+D:\loser\WeChat Files\wxid_63lcda019gmi12\Files\超哥代码\期末作品参考答案\ProjectA\ProjectA\bin\Debug\ProjectA.exe
+D:\loser\WeChat Files\wxid_63lcda019gmi12\Files\超哥代码\期末作品参考答案\ProjectA\ProjectA\bin\Debug\ProjectA.pdb
+D:\loser\WeChat Files\wxid_63lcda019gmi12\Files\超哥代码\期末作品参考答案\ProjectA\ProjectA\obj\Debug\ProjectA.csprojResolveAssemblyReference.cache
+D:\loser\WeChat Files\wxid_63lcda019gmi12\Files\超哥代码\期末作品参考答案\ProjectA\ProjectA\obj\Debug\ProjectA.Form1.resources
+D:\loser\WeChat Files\wxid_63lcda019gmi12\Files\超哥代码\期末作品参考答案\ProjectA\ProjectA\obj\Debug\ProjectA.Properties.Resources.resources
+D:\loser\WeChat Files\wxid_63lcda019gmi12\Files\超哥代码\期末作品参考答案\ProjectA\ProjectA\obj\Debug\ProjectA.csproj.GenerateResource.Cache
+C:\Users\79356\Desktop\ProjectA\ProjectA\bin\Debug\ProjectA.exe.config
+C:\Users\79356\Desktop\ProjectA\ProjectA\obj\Debug\ProjectA.exe
+C:\Users\79356\Desktop\ProjectA\ProjectA\obj\Debug\ProjectA.pdb
+C:\Users\79356\Desktop\ProjectA\ProjectA\bin\Debug\ProjectA.exe
+C:\Users\79356\Desktop\ProjectA\ProjectA\bin\Debug\ProjectA.pdb
+C:\Users\79356\Desktop\ProjectA\ProjectA\obj\Debug\ProjectA.csprojResolveAssemblyReference.cache
+C:\Users\79356\Desktop\ProjectA\ProjectA\obj\Debug\ProjectA.Form1.resources
+C:\Users\79356\Desktop\ProjectA\ProjectA\obj\Debug\ProjectA.Properties.Resources.resources
+C:\Users\79356\Desktop\ProjectA\ProjectA\obj\Debug\ProjectA.csproj.GenerateResource.Cache
