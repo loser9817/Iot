@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>list</title>
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            var getting = {
+                    type: "GET",
+                    url: "http://119.23.225.92:8080",
+                    success: function (result) {
+                        var data = JSON.parse(JSON.stringify(result));
+
+                        var html;
+                        $.each(data, function (i, Infodata) {
+                            var t = Number(Infodata.key);
+                            var time = new Date(t).toLocaleString();
+
+                            html +='<tr>' +
+                                '<th>' + time + '</th>' +
+                                '<th>' + Infodata.value + '</th>' +
+                            '</tr>';
+                        });
+                        $("#z1").html(html);
+                    }
+                };
+
+            //Ajax定时访问服务端，不断获取数据 ，这里是1秒请求一次。
+            window.setInterval(function(){$.ajax(getting)},1000);
+        });
+    </script>
+</head>
+<body>
+<table style="color: blue;outline: 1px solid #000; margin: 20px auto;height: 100px">
+    <thead>
+        <th>key</th>
+        <th>value</th>
+    </thead>
+    <tbody id="z1"></tbody>
+</table>
+</body>
+</html>
